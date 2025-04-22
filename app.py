@@ -1,6 +1,6 @@
 import streamlit as st
-st.imagen ("imagen.jpeg")
 
+st.imagen ("imagen.jpeg")
 # Constante del gas ideal
 R = 0.0821  # L·atm/(mol·K)
 
